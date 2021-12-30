@@ -1,8 +1,13 @@
 
-  # README Generator 
+  # README FILE 
   
   ## Description
-    A great way to easily and quickly create readme files
+    used for creating great README files
+
+## Demonstration & Output
+
+![demo](readmeDEMO.gif)
+
   ## Table of Contents
   - [Packages](#packages)
   - [Usage](#usage)
@@ -13,7 +18,7 @@
   ## packages
   Packages required to run this program are: inquirer  
   ## Usage
-  Examples of how to use this program: For any README file creation
+  Examples of how to use this program: For any README file
   ## License
   None
   ## Tests
@@ -26,6 +31,6 @@
   
 ![Profile Image](https://github.com/SarahLabrotLientz.png?size=50)
   
-View the project in GitHub at: README.com
+View the project in GitHub at: README
   
 If you have any questions, contact the author directly at email@gmail.com.
