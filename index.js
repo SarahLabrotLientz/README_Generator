@@ -25,13 +25,18 @@ function askQuestions() {
   {
     message: "What is the URL of your GitHub project?",
     type: "input",
-    name: "URL"
+    name: "url"
   },
 
   {
     message: "What's your project's title?",
     type: "input",
     name: "title"
+  },
+  {
+    message: "Please provide an example of how your project can be used",
+    type: "input",
+    name: "usage"
   },
   {
     message: "Please provide a description of your project",
@@ -43,7 +48,11 @@ function askQuestions() {
     type: "input",
     name: "packages"
   },
-
+  {
+    type: "input",
+    message: "What command is used to run a test",
+    name: "tests",
+  },
   {
     message: "What technologies were used to create your project?",
     type: "input",
