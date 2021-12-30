@@ -1,8 +1,8 @@
 
-  # READ.ME 
+  # README FILE 
   
   ## Description
-    generates readme files
+    used for creating great README files
   ## Table of Contents
   - [Packages](#packages)
   - [Usage](#usage)
@@ -11,21 +11,21 @@
   - [Contributors](#contributor)
   - [Details](#details)
   ## packages
-  Packages required to run this program are: axios and inquirer  
+  Packages required to run this program are: inquirer  
   ## Usage
-  Examples of how to use this program: blah blah
+  Examples of how to use this program: For any README file
   ## License
-  MIT
+  None
   ## Tests
-  To test, run the following command: tests
+  To test, run the following command: n/a
   ## Contributors
-  sarah
+  Sarah Labrot Lientz
   ## Contact
   
-![Badge](https://img.shields.io/badge/Github-Sarah-4cbbb9) 
+![Badge](https://img.shields.io/badge/Github-SarahLabrotLientz-4cbbb9) 
   
-![Profile Image](https://github.com/Sarah.png?size=50)
+![Profile Image](https://github.com/SarahLabrotLientz.png?size=50)
   
-View the project in GitHub at: http
+View the project in GitHub at: README
   
-If you have any questions, contact the author directly at labrot.
+If you have any questions, contact the author directly at email@gmail.com.
