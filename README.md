@@ -1,32 +1,31 @@
 
-  # README generator 
+  # READ.ME 
   
   ## Description
-    it is a readme file
+    generates readme files
   ## Table of Contents
-  - [Installation](#installation)
+  - [Packages](#packages)
   - [Usage](#usage)
   - [License](#license)
   - [Tests](#tests)
-  - [Contributors](#contributors)
+  - [Contributors](#contributor)
   - [Details](#details)
-  ## Installation
-  Packages required to run this program are: undefined
-  
+  ## packages
+  Packages required to run this program are: axios and inquirer  
   ## Usage
-  Examples of how to use this program: here
+  Examples of how to use this program: blah blah
   ## License
-  BSD
+  MIT
   ## Tests
-  To test, run the following command: test
+  To test, run the following command: tests
   ## Contributors
-  undefined
+  sarah
   ## Contact
   
-![Badge](https://img.shields.io/badge/Github-HeyHey-4cbbb9) 
+![Badge](https://img.shields.io/badge/Github-Sarah-4cbbb9) 
   
-![Profile Image](https://github.com/HeyHey.png?size=50)
+![Profile Image](https://github.com/Sarah.png?size=50)
   
-View the project in GitHub at: http//
+View the project in GitHub at: http
   
-If you have any questions, contact the author directly at gmail.
+If you have any questions, contact the author directly at labrot.

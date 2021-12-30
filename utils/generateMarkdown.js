@@ -8,15 +8,14 @@ function generateMarkdown(data) {
   ## Description
     ${data.description}
   ## Table of Contents
-  - [Installation](#installation)
+  - [Packages](#packages)
   - [Usage](#usage)
   - [License](#license)
   - [Tests](#tests)
-  - [Contributors](#contributors)
+  - [Contributors](#contributor)
   - [Details](#details)
-  ## Installation
-  Packages required to run this program are: ${data.installation}
-  
+  ## packages
+  Packages required to run this program are: ${data.packages}  
   ## Usage
   Examples of how to use this program: ${data.usage}
   ## License
@@ -24,7 +23,7 @@ function generateMarkdown(data) {
   ## Tests
   To test, run the following command: ${data.tests}
   ## Contributors
-  ${data.contributer}
+  ${data.contributor}
   ## Contact
   \n![Badge](${gitHub}) 
   \n![Profile Image](${avatar})
@@ -34,3 +33,4 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+
