@@ -25,7 +25,7 @@ function askQuestions() {
   {
     message: "What is the URL of your GitHub project?",
     type: "input",
-    name: "url"
+    name: "URL"
   },
 
   {

@@ -2,9 +2,12 @@
   # README FILE 
   
   ## Description
-    used for creating great README files
+    README files are quickly and easily generated using Node.js and Inquirer. The user simply needs to enter information relating to the project's packages, usage, license, tests, contributors and details. 
 
-## Demonstration & Output
+  ## Demonstration & Output
+
+![link to screencastify](https://watch.screencastify.com/v/Qnm0wat6j9WbGLXcppOy)
+
 
 ![demo](readmeDEMO.gif)
 
@@ -34,3 +37,7 @@
 View the project in GitHub at: README
   
 If you have any questions, contact the author directly at email@gmail.com.
+
+
+Link to Screencastify Demo
+![link to screencastify](https://watch.screencastify.com/v/Qnm0wat6j9WbGLXcppOy)
