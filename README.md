@@ -6,7 +6,7 @@
 
   ## Demonstration & Output
 
-![link to screencastify](https://watch.screencastify.com/v/Qnm0wat6j9WbGLXcppOy)
+[Click here to view screencastify video](https://watch.screencastify.com/v/Qnm0wat6j9WbGLXcppOy)
 
 
 ![demo](readmeDEMO.gif)
@@ -39,5 +39,4 @@ View the project in GitHub at: README
 If you have any questions, contact the author directly at email@gmail.com.
 
 
-Link to Screencastify Demo
-![link to screencastify](https://watch.screencastify.com/v/Qnm0wat6j9WbGLXcppOy)
+
